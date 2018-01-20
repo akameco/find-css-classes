@@ -18,7 +18,7 @@ module.exports = (input /*: string */) /*: Set<string> */ => {
 
   const result = parser.parse(input)
   for (const node of result.nodes) {
-    selectorParser(transform).process(node.selector)
+    selectorParser(transform).processSync(node.selector)
   }
 
   return set
