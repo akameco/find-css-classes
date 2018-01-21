@@ -10,6 +10,10 @@ test('return class names', () => {
     .testCase {
       color: white;
     }
+    @keyframes App-logo-spin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
   `
   expect(m(css)).toEqual(new Set(['a', 'b', 'c', 'testCase']))
 })
