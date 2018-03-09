@@ -1,7 +1,6 @@
 # find-css-classes
 
 [![Build Status](https://travis-ci.org/akameco/find-css-classes.svg?branch=master)](https://travis-ci.org/akameco/find-css-classes)
-[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/find-css-classes.svg)](https://greenkeeper.io/)
 [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
